@@ -1,7 +1,7 @@
 - <h2>👋Olá, Seja Bem vindo </h2>
 - 
 - A qui postarei um pouco dos meu conhecimento  na  aria de Ti
-- sou estudante de  <i>Analíse e  Desenvolvimento de  sistema<qh1>
+- sou estudante de  <i>Analíse e  Desenvolvimento de  sistema</1>
 - E também estudando<i> data science </i>
 - estarei aqui sempre contribuindo e aprendendo com vocês
 
